@@ -1,2 +1,3 @@
 # samar
-its my first repo 
+its my first repo.
+Author Shubham 
